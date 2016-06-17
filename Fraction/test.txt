@@ -1,0 +1,17 @@
+Initialize
+3
+4
+IsZero
+IsNotProper
+GetNumerator
+GetDenominator
+Initialize
+4
+3
+IsNotProper
+ConvertToProper
+Initialize
+0
+1
+IsZero
+Quit
